@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![PASSED](https://dl.circleci.com/status-badge/img/gh/Cloud-based-Dipo//Udacity-Project4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Cloud-based-Dipo//Udacity-Project4/tree/main)
 
 ## Project Overview
 
